@@ -57,24 +57,7 @@
 
 ---
 
-### 📂 Featured Projects
 
-🚀 **ContextGuard-RAG (Full-Stack RAG System)**  
-- Built a modular RAG backend using FastAPI  
-- Designed pluggable LLM layer with deterministic mocking  
-- **Tech:** Python, FastAPI, FAISS, SentenceTransformers, Pytest, Docker  
-
-🧠 **Cognibot – Mental Health Chatbot**  
-- Developed AI chatbot providing personalized suggestions  
-- Integrated Google Gemini API for real-time responses  
-- **Tech:** HTML, CSS, JavaScript  
-
-📊 **Metadata Service: Dataset Registry**  
-- Built backend service for dataset management  
-- Implemented priority-based search (table, column, schema)  
-- **Tech:** Python, FastAPI, SQLAlchemy, MySQL, Docker, Alembic  
-
----
 
 ### 📊 Data & Visualization Skills
 - Advanced Excel, Power BI, Tableau  
